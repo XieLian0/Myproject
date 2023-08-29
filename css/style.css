@@ -1,0 +1,127 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 0 10px 5px black ;
+    border-bottom-right-radius:30px ;
+    border-bottom-left-radius: 30px;
+    background-color: #4c439f;
+}
+body{
+    background: linear-gradient(to left, #5a4fc0, #020440);
+    margin: 0;
+}
+.serch{
+    margin-right: 20px;
+}
+
+
+.serch input{
+    border: 0;
+    outline: 0;
+    border-bottom: 3px solid black;
+    background: transparent;
+}
+.serch button{
+    background: transparent;
+    border: none;
+}
+p{
+    font-family: 'Bad Script', cursive;
+    color: #ffc852;
+    font-size: 20px;
+    
+}
+.box1{
+    display: flex;
+    width: 370px;
+    height: 290px;
+    border: #020440 solid 3px;
+    margin-left: 100px;
+    border-radius: 30px;
+    box-shadow: 5px 10px 10px 5px black;
+
+}
+.box1 a{
+    text-decoration: none;
+    color: #ffc852;
+}
+.box2 {
+    display: flex;
+    width: 350px;
+    height: 200px;
+    border: #020440 solid 3px;
+    margin-left: 80px;
+    border-radius: 30px;
+    box-shadow: 5px 10px 10px 5px black;
+
+}
+.box2 a{
+    color: #ffc852;
+}
+
+
+
+
+.box4 {
+    display: flex;
+    height: 70px;
+    width: 500px;
+    align-items: center;
+    justify-content: space-around;
+    border: #020440 solid 3px;
+    margin-left: 850px;
+    margin-top: -100px;
+    border-radius: 30px;
+    box-shadow: 3px 5px 10px 3px black;
+
+    
+}
+.box4 a{
+    text-decoration: none;
+    color: #ffc852;
+    font-family: 'Bad Script', cursive;
+    font-size: 24px;
+    
+
+}
+.box3{
+    display: flex;
+    height: 450px;
+    width: 600px;
+    align-items: center;
+    justify-content: space-around;
+    border: #020440 solid 3px;
+    position: absolute;
+    margin-left: 750px;
+    margin-top: -550px;
+   
+    border-radius: 30px;
+    box-shadow: 3px 5px 10px 3px black;
+
+}
+.blok{
+    height: 300px;
+    width: 200px;
+    border: #020440 solid 3px;
+    margin: 15px;
+    border-radius: 30px;
+    background-color: #968aff;
+
+}
+.box3 a{
+    position: absolute;
+    text-align: center;
+    color: #ffc852;
+    font-family: 'Bad Script', cursive;
+    font-size: 25px;
+    bottom: 20px;
+    
+}
+.box3 p{
+    position: absolute;
+    text-align: center;
+    top: -7px;
+    font-size: 24px;
+
+}
